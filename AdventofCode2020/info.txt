@@ -1,0 +1,7 @@
+This directory contains the solutions to the Advent of Code 2020 programming challenge (https://adventofcode.com/2020/). 
+
+Solved by Tim De Buyst
+
+Solutions from a friend in the programming language Rust: https://github.com/jonasvandervennet/advent-of-code-2020
+
+Reddit solutions threads: https://www.reddit.com/r/adventofcode/wiki/solution_megathreads
